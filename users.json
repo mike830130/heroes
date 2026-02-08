@@ -15,6 +15,21 @@
     "avatar": "/avatars/yujunliang.png"
   },
   {
+    "name": "Yongkang He",
+    "github": "yongkanghe",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2024-07-01",
+    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "twitter": "yongkanghe",
+    "linkedin": "yongkanghe",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
+    "avatar": "/avatars/yongkanghe.png"
+  },
+  {
     "name": "Bangaly KABA, PhD",
     "certs": [
       "KSUG.AI Community Hero"
@@ -108,11 +123,10 @@
     ],
     "city": "Melbourne",
     "country": "Australia",
-    "date": "2024-07-01",
-    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
-    "twitter": "yongkanghe",
-    "linkedin": "yongkanghe",
-    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
-    "avatar": "/avatars/yongkanghe.png"
+    "date": "2025-12-15",
+    "bio": "Multi-Cloud Data Engineer | 12x Azure | 9x AWS | 5x GCP",
+    "linkedin": "feng-gao-829655a6",
+    "website": "https://ksug.ai/heroes",
+    "avatar": "/avatars/fenggao.png"
   }
 ]
