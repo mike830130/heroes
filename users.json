@@ -127,5 +127,18 @@
     "linkedin": "feng-gao-829655a6",
     "website": "https://ksug.ai/heroes",
     "avatar": "/avatars/fenggao.png"
+  },
+  {
+    "name": "Tapas Singhal",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Noida",
+    "country": "India",
+    "date": "2026-01-25",
+    "bio": "Mutli-Cloud enthusiast | 1× AWS | 2× GCP | 1x OCI | 1× GitHub",
+    "linkedin": "tapas-singhal",
+    "website": "https://ksug.ai/heroes",
+    "avatar": "/avatars/tapassinghal.png"
   }
 ]
