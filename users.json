@@ -140,5 +140,19 @@
     "linkedin": "tapas-singhal",
     "website": "https://www.linkedin.com/posts/hero-aws-opentowork-share-7426793169750544384-OQ0c",
     "avatar": "/avatars/tapassinghal.jpeg"
+  },
+  {
+    "name": "Bojin Zhang",
+    "github": "mike830130",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Auckland",
+    "country": "New Zealand",
+    "date": "2026-04-30",
+    "bio": "13x AWS Certified | Senior Software Engineer | Cloud & AI",
+    "linkedin": "Bojin Zhang",
+    "website": "https://www.linkedin.com/posts/bojin-zhang-20490142_aws-generativeai-cloudcomputing-activity-7455540302485962752-t9fN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkIU-QBD-KcZRpvOPFYH0WI1zf0N1JEeaE",
+    "avatar": "/avatars/Bojin.Zhang.png"
   }
 ]
